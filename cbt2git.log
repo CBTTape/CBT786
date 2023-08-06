@@ -1,0 +1,7 @@
+2023-08-06 07:33:36.060579 - Initialized conversion of CBT786
+2023-08-06 07:33:36.084165 - Received CBT.V505.FILE786.PDS from FILE786.XMI 
+2023-08-06 07:33:36.086187 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:33:36.087298 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:33:36.088278 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE2
+2023-08-06 07:33:36.089263 - Found @FILE786.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/@FILE786
+2023-08-06 07:33:36.090200 - Found CBTABS.x-shellscript (text/x-shellscript) in CBT.V505.FILE786.PDS, moved to PDS/CBTABS
