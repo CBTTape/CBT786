@@ -1,0 +1,6 @@
+2025-04-13 22:49:57.794051 - Received CBT.V505.FILE786.PDS from FILE786.XMI 
+2025-04-13 22:49:57.794794 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:49:57.794869 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:49:57.794932 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE2
+2025-04-13 22:49:57.794990 - Found @FILE786.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/@FILE786
+2025-04-13 22:49:57.795065 - Found CBTABS.x-shellscript (text/x-shellscript) in CBT.V505.FILE786.PDS, moved to PDS/CBTABS
