@@ -1,6 +1,6 @@
-2025-04-15 05:36:00.631805 - Received CBT.V505.FILE786.PDS from FILE786.XMI 
-2025-04-15 05:36:00.632933 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:36:00.633232 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE1
-2025-04-15 05:36:00.633515 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE2
-2025-04-15 05:36:00.633792 - Found @FILE786.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/@FILE786
-2025-04-15 05:36:00.633956 - Found CBTABS.x-shellscript (text/x-shellscript) in CBT.V505.FILE786.PDS, moved to PDS/CBTABS
+2025-04-16 00:13:08.526069 - Received CBT.V505.FILE786.PDS from FILE786.XMI 
+2025-04-16 00:13:08.526908 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:13:08.527400 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE1
+2025-04-16 00:13:08.527711 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/$$NOTE2
+2025-04-16 00:13:08.527769 - Found @FILE786.txt (text/plain) in CBT.V505.FILE786.PDS, moved to PDS/@FILE786
+2025-04-16 00:13:08.527938 - Found CBTABS.x-shellscript (text/x-shellscript) in CBT.V505.FILE786.PDS, moved to PDS/CBTABS
